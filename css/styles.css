@@ -173,6 +173,11 @@ button{
     color: var(--color-text-foter);
 }
 
+.bottom-contact:hover,
+.bottom-contact:focus{
+    color: var(--color-text-logo);
+}
+
 /* Портфоліо */
 .filter-btn{
     font-family: 'Roboto', sans-serif;
